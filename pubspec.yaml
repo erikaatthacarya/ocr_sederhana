@@ -29,11 +29,17 @@ dependencies:
   flutter:
     sdk: flutter
 
-  # OCR and camera packages
-  google_mlkit_text_recognition: ^0.10.0
-  camera: ^0.10.5+5
-  path_provider: ^2.1.2
-  path: ^1.8.3
+  # ✅ Gunakan versi terbaru agar namespace issue teratasi
+  google_mlkit_text_recognition: ^0.11.0
+
+  # Kamera dan path utils (versi terbaru & stabil)
+  camera: ^0.11.0+2
+  path_provider: ^2.1.3
+  path: ^1.9.0
+
+  permission_handler: ^11.0.0
+  flutter_tts: ^3.8.0
+
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
