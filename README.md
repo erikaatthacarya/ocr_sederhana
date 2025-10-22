@@ -14,3 +14,13 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+# Hasil Screenshot
+
+Berikut adalah hasil tampilan dari projek ocr sederhana 
+![Hasil Screenshot](
+    gambar3.png, gambar5.png, # hasil soal no 1
+    gambar4.png, # hasil soal no 2
+    gambar2.png, gambar.png, #hasil soal no 3
+)
